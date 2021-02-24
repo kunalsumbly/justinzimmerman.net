@@ -1,18 +1,18 @@
-baseurl = "https://justinzimmerman.net/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Justin Zimmerman"
-copyright = "(c) 2019 Justin Zimmerman."
+title = "Kunal Sumbly"
+copyright = "(c) 2021 Kunal Sumbly."
 theme = "hyde-y"
 
 # Enable Disqus integration
-disqusShortname = "justinzimmerman"
+disqusShortname = "kunalsumbly"
 
 [Author]
-  name = "Justin Zimmerman"
-  email = "justin.richard.zimmerman@gmail.com"
+  name = "Kunal Sumbly"
+  email = "kunal.sumbly@gmail.com"
 
 [params]
-  brand = "Justin Zimmerman"
+  brand = "Kunal Sumbly"
   topline = "Software Engineer"
 
   # Sidebar position
@@ -31,9 +31,9 @@ disqusShortname = "justinzimmerman"
   googleAnalytics = "UA-37904415-1"
 
   # Sidebar social links.
-  github = "jrzimmerman"
-  twitter = "justzimmerman"
-  linkedin = "justinrzimmerman"
+  github = "kunalsumbly"
+  twitter = "one_pacifist"
+  linkedin = "kunal-sumbly-0022b92a"
 
   # Sidebar RSS link: will only show up if there is a RSS feed
   # associated with the current page
